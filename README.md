@@ -9,4 +9,4 @@ THE IMS.ipynb file contains the code to generate the bill and has the following 
 3. Before billing, the user is asked to confirm if all purchases are done. If not, then the buying loop (point 1) starts again.
 4. After the confirmation, the system generates a random purchase suggestion to the user(using random.randrange function)
 5. According to the total bill cost, certain discount is provided to the costumer.
-6.  
+6.  The bill has prints the current date, time, total number of items bought, total MRP, discount and total cost(MRP-discount)
